@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Страница-1" id="JToFEUD5UKrPVNVU89Zx">
-    <mxGraphModel dx="957" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="911" dy="1471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -484,6 +484,12 @@
         </mxCell>
         <mxCell id="BUmHLJL5bIkei1vyNJZl-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Signext" vertex="1">
           <mxGeometry height="20" width="50" x="630" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="X2ybvqKH9cjVOM73C_RF-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;rotation=0;" value="aluControl" vertex="1">
+          <mxGeometry height="20" width="40" x="275" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="X2ybvqKH9cjVOM73C_RF-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;rotation=0;" value="branch" vertex="1">
+          <mxGeometry height="20" width="40" x="320" y="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
